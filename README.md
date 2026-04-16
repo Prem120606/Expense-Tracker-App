@@ -1,2 +1,9 @@
-# Expense-Tracker-App
-This is a app that used to track our daily expense. Modern User Interface added and user friendly
+# A expensepro Flet app
+
+An example of a minimal Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
